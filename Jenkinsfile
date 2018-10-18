@@ -4,7 +4,7 @@ pipeline {
   environment {
     MAJOR_VERSION = 3
     JENKINS_SERVER = "http://jenkinsmaster"
-    TOKEN = "11d19f0a4376bd4195586ba6a39736012f"
+    TOKEN = "Hurricane1&"
   }
 
   stages {
