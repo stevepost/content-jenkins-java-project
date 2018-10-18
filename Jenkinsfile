@@ -12,7 +12,7 @@ pipeline {
       agent any
 
       steps {
-        echo 'Nice Student!'
+        sayHello 'Nice Student!'
         sh 'id'
       }
     }
