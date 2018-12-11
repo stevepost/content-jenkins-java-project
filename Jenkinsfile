@@ -12,7 +12,7 @@ pipeline {
       agent any
 
       steps {
-        sayHello 'Nice Student!'
+        sayHello 'Hello Student!'
         sh 'id'
       }
     }
